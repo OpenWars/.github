@@ -8,4 +8,10 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-Coming Soon!
+![owlogo](https://github.com/user-attachments/assets/ed2e9f06-a701-4ca8-b8c6-8e4a8ba9879b)
+
+# The OpenWars Home
+
+OpenWars is a libre/free game based on the [Advance Wars](https://en.wikipedia.org/wiki/Wars_(series)) franchise.
+
+*Advance Wars is © 1990-2001 Nintendo and © 2001 Intelligent Systems. We're not endorsed or affiliated in any way by them.*
