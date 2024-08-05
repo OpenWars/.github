@@ -12,6 +12,6 @@
 
 # The OpenWars Home
 
-OpenWars is a libre/free game based on the [Advance Wars](https://en.wikipedia.org/wiki/Wars_(series)) franchise.
+OpenWars is a Free/Libre and Open Source game based on the [Advance Wars](https://en.wikipedia.org/wiki/Wars_(series)) franchise.
 
 *Advance Wars is © 1990-2001 Nintendo and © 2001 Intelligent Systems. We're not endorsed or affiliated in any way by them.*
