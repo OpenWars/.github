@@ -8,7 +8,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-![owlogo](https://github.com/user-attachments/assets/ed2e9f06-a701-4ca8-b8c6-8e4a8ba9879b)
+![owlogo](https://raw.githubusercontent.com/OpenWars/branding/main/owlogo.svg)
 
 # The OpenWars Home
 
